@@ -20,4 +20,5 @@ An open, community-driven blog for sharing insights, updates, and ideas for BeCl
 
 
 ## CONTACTS
-- Jaeju, AN (anjaeju@cleverus-ai.com)
+- cleverus@cleverus-ai.com
+- anjaeju@cleverus-ai.com
