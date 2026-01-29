@@ -1,5 +1,5 @@
 # beclever-open-notes
-An open, community-driven blog for sharing insights, updates, and ideas around the BeClever System.
+An open, community-driven blog for sharing insights, updates, and ideas for BeClever System.
 <img width="1792" height="816" alt="image" src="https://github.com/user-attachments/assets/89c8e866-a44c-418f-af6e-ea0efae59310" />
 
 ## UPDATES
