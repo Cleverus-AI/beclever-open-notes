@@ -8,12 +8,12 @@ An open, community-driven blog for sharing insights, updates, and ideas around t
 - See hardware updates : [Link]
 
 ### 2026 Supported functions
-  - [AI] Fallen Detection (Average accuracy : 95%)
-  - [AI] Bed-exit Deteciton (Average accuracy : 90%)
-  - [AI] Invasion Detection (Average accuracy : 90%)
-  - [Privacy] 2-step Mosaic for Bed Area (Optional)
-  - [Privacy] 24/7 Mosaic for detected person (Optional)
+- [AI] Fall Detection → Average accuracy: 95%
+- [AI] Bed-Exit Detection → Average accuracy: 90%
+- [AI] Intrusion Detection → Average accuracy: 98%
+- [Privacy] Two-step mosaic applied to bed areas (Optional)
+- [Privacy] Continuous (24/7) mosaic applied to detected persons (Optional)
 
-### On-going Work
-- [AI] Violent behvior Detection
-- [AI] Walking-aid usage Detection
+### On-going Development
+- [AI] Violent behavior detection
+- [AI] Walking-aid usage detection
