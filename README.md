@@ -4,9 +4,9 @@ An open, community-driven blog for sharing insights, updates, and ideas for BeCl
 
 ## UPDATES
 ### Update history
-- See AI & Edge updates : [Link](https://github.com/Cleverus-AI/beclever-open-notes/blob/main/UPDATELOG%20(Hardware).md)
-- See Web & Mobile updates : [Link](https://github.com/Cleverus-AI/beclever-open-notes/blob/main/UPDATELOG%20(Web%20%26%20Mobile).md)
+- See AI & Edge updates : [Link](https://github.com/Cleverus-AI/beclever-open-notes/blob/main/UPDATELOG%20(AI%20%26%20Edge).md)
 - See hardware updates : [Link](https://github.com/Cleverus-AI/beclever-open-notes/blob/main/UPDATELOG%20(Hardware).md)
+- See Web & Mobile updates : [Link](https://github.com/Cleverus-AI/beclever-open-notes/blob/main/UPDATELOG%20(Web%20%26%20Mobile).md)
 
 ### 2026 Supported functions
 - [AI] Fall Detection → Average accuracy: 95%
