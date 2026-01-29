@@ -4,7 +4,8 @@ An open, community-driven blog for sharing insights, updates, and ideas for BeCl
 
 ## UPDATES
 ### Update history
-- See software updates : [Link](https://github.com/Cleverus-AI/beclever-open-notes/blob/main/UPDATELOG%20(Software).md)
+- See AI & Edge updates : [Link](https://github.com/Cleverus-AI/beclever-open-notes/blob/main/UPDATELOG%20(Hardware).md)
+- See Web & Mobile updates : [Link](https://github.com/Cleverus-AI/beclever-open-notes/blob/main/UPDATELOG%20(Web%20%26%20Mobile).md)
 - See hardware updates : [Link](https://github.com/Cleverus-AI/beclever-open-notes/blob/main/UPDATELOG%20(Hardware).md)
 
 ### 2026 Supported functions
