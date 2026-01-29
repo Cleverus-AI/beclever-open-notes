@@ -17,3 +17,7 @@ An open, community-driven blog for sharing insights, updates, and ideas for BeCl
 ### On-going Development
 - [AI] Violent behavior detection
 - [AI] Walking-aid usage detection
+
+
+## CONTACTS
+- Jaeju, AN (anjaeju@cleverus-ai.com)
