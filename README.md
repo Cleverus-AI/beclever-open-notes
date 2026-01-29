@@ -1,8 +1,6 @@
 # beclever-open-notes
 An open, community-driven blog for sharing insights, updates, and ideas around the BeClever System.
-<img width="1792" height="816" alt="image" src="https://github.com/user-attachments/assets/f3e8c6d1-b6f2-48fc-b5dd-de59ae33b037" />
-
-
+<img width="1792" height="816" alt="image" src="https://github.com/user-attachments/assets/89c8e866-a44c-418f-af6e-ea0efae59310" />
 
 ## UPDATES
 ### Update history
