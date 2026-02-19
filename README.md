@@ -12,12 +12,12 @@ An open, community-driven blog for sharing insights, updates, and ideas for BeCl
 - [AI] Fall Detection → Average accuracy: 95%
 - [AI] Bed-Exit Detection → Average accuracy: 90%
 - [AI] Intrusion Detection → Average accuracy: 98%
+- [AI] Walking-aid usage detection → Average accuracy: 80%
 - [Privacy] Two-step mosaic applied to bed areas (Optional)
 - [Privacy] Continuous (24/7) mosaic applied to detected persons (Optional)
 
 ### On-going Development
 - [AI] Violent behavior detection
-- [AI] Walking-aid usage detection
 
 
 ## CONTACTS
